@@ -1,4 +1,4 @@
-# Multi-Task Learning Model for Image Segmentation and Classification
+# Skin Lesion Segmentation and Classification
 
 ## Introduction
 This project uses advanced AI to analyze skin lesion images, segmenting the marks from the background and classifying them to help in early detection.
